@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04018_01_1_setknn.png"
+    },
+    {
+      "id": 2,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04031_01_1_l6borq.png"
+    },
+    {
+      "id": 3,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04085_01_1_vwvgcc.png"
+    },
+    {
+      "id": 4,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04086_01_1_ysdixn.png"
+    },
+    {
+      "id": 5,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04018_01_1_setknn.png"
+    },
+    {
+      "id": 6,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04031_01_1_l6borq.png"
+    },
+    {
+      "id": 7,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04085_01_1_vwvgcc.png"
+    },
+    {
+      "id": 8,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04086_01_1_ysdixn.png"
+    },
+    {
+      "id": 9,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04018_01_1_setknn.png"
+    },
+    {
+      "id": 10,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04031_01_1_l6borq.png"
+    },
+    {
+      "id": 11,
+      "name": "Vintage Leather Backpack",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04085_01_1_vwvgcc.png"
+    },
+    {
+      "id": 12,
+      "name": "Modern Business Case",
+      "discountedPrice": "₹4899",
+      "originalPrice": "₹8999",
+      "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1708141100/SIPR04018_01_1_setknn.png"
+    }
+  ]
+}
