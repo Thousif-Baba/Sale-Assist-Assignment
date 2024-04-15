@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Comme:wght@100..900&family=Inter:wght@200;300&family=Raleway:wght@100&family=Roboto&display=swap');
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    position: relative;
+    margin-right: 20px;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    top: 15px;
+    left: 230px;
+}
+
+.badge {
+    position: absolute;
+}
+
+.product-name {
+    color: #E5DFD9;
+    font-family: "Comme";
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.price-and-cart-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-container {
+    display: flex;
+    align-items: flex-end;
+}
+
+.discounted-price {
+    color: #E5DFD9;
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.original-price {
+    color: #E5DFD9;
+    text-decoration: line-through;
+    margin-right: 5px;
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.discount-percent {
+    color: green;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    margin-right: 80px;
+}
+
+
+.add-bag {
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

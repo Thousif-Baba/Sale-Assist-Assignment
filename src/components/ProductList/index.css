@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Comme:wght@100..900&family=Inter:wght@200;300&family=Raleway:wght@100&family=Roboto&display=swap');
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 14px;
+    padding-bottom: 60px;
+
+    @media screen and (max-width: 768px) {
+        justify-content: center;
+    }
+}
